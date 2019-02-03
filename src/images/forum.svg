@@ -1,0 +1,295 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 344 100" width="344" height="160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <path id="a" d="M0 0h344v160H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#ECEEF1" xlink:href="#a"/>
+    <g mask="url(#b)">
+      <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="2.86666667" font-weight="bold" transform="translate(217.866667 113.472223)">
+        <tspan x="0" y="3">Fisher 11/1/2018</tspan>
+      </text>
+      <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(217.866667 117.472223)">
+        <tspan x="0" y="3.77777778">San Francisco, CA</tspan>
+      </text>
+      <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="2.86666667" font-weight="bold" transform="translate(217.866667 78.594445)">
+        <tspan x="0" y="3">Kompany 10/18/2018</tspan>
+      </text>
+      <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(217.866667 82.594445)">
+        <tspan x="0" y="3.77777778">YouTube</tspan>
+      </text>
+      <g fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-weight="bold">
+        <text font-size="2.86666667" transform="translate(217.866667 96.033334)">
+          <tspan x="0" y="3">Hard DOTD 10/21/2018</tspan>
+        </text>
+        <text font-size="3.34444444" transform="translate(217.866667 100.033334)">
+          <tspan x="0" y="3.77777778">Los Angeles, CA</tspan>
+        </text>
+      </g>
+      <g fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-weight="bold">
+        <text font-size="2.86666667" transform="translate(217.866667 61.155556)">
+          <tspan x="0" y="3">Krane 10/5/2018</tspan>
+        </text>
+        <text font-size="3.34444444" transform="translate(217.866667 65.155556)">
+          <tspan x="0" y="3.77777778">TwitchTV</tspan>
+        </text>
+      </g>
+      <g fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+        <text transform="translate(217.866667 43.955556)">
+          <tspan x="0" y="3">Upcoming Streams &amp;</tspan>
+        </text>
+        <text transform="translate(217.866667 43.955556)">
+          <tspan x="0" y="7">Pre-Games</tspan>
+        </text>
+      </g>
+      <g transform="translate(46.105556 43.955556)">
+        <rect width="155.277778" height="449.827778" x="8.83888889" fill="#FFF" rx=".95555556"/>
+        <g fill="#000">
+          <text font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(25.8 115.233334)">
+            <tspan x="0" y="3.62777778">4</tspan>
+          </text>
+          <path d="M25.84825556 114.598584c-.08767223.09961667-.0518389.18036111.07859444.18036111h2.25463333c.13115 0 .1677-.07883333.08074445-.17725555l-1.0535-1.19086112c-.08671667-.09794444-.22622778-.09842222-.31581111.00310556l-1.04466111 1.18488889"/>
+        </g>
+        <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(38.938889 112.755556)">
+          <tspan x="0" y="3">Hayden James - Just Friends [D-Dog Remix]</tspan>
+        </text>
+        <g transform="translate(0 110.366667)">
+          <rect width="15.2888889" height="15.2888889" fill="#009688" rx="7.64444444"/>
+          <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+            <tspan x="3.10555556" y="8.49444444">Show</tspan>
+          </text>
+        </g>
+        <g fill="#000">
+          <path d="M28.26123485 100.03591733c.08767222-.09961667.05183889-.18036111-.07859445-.18036111h-2.25463333c-.13115 0-.1677.07883333-.08074445.17725556l1.0535 1.19086111c.08671667.09794444.22622778.09842222.31581111-.00310556l1.04466112-1.18488889"/>
+          <text font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(25.8 93.733334)">
+            <tspan x="0" y="3.62777778">1</tspan>
+          </text>
+          <path d="M25.84825556 93.098584c-.08767223.09961667-.0518389.18036111.07859444.18036111h2.25463333c.13115 0 .1677-.07883333.08074445-.17725555l-1.0535-1.19086112c-.08671667-.09794444-.22622778-.09842222-.31581111.00310556l-1.04466111 1.18488889"/>
+        </g>
+        <text fill="#9B9B9B" font-family="LucidaGrande, Lucida Grande" font-size="2.86666667" transform="translate(60.938889 97.255556)">
+          <tspan x=".2166667" y="3.45">●</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="AvenirNext-Regular, Avenir Next" font-size="2.86666667" transform="translate(38.938889 97.255556)">
+          <tspan x="0" y="3.45">46 Comments</tspan>
+        </text>
+        <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(38.938889 91.255556)">
+          <tspan x="0" y="3">How do I make my chords more interesting? [Music Theory]</tspan>
+        </text>
+        <g fill="#9B9B9B" font-size="2.86666667">
+          <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(66.938889 97.255556)">
+            <tspan x=".6666667" y="3.45">7 hours ago</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(66.938889 97.255556)">
+            <tspan x="17.1012667" y="3.45">from</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(66.938889 97.255556)">
+            <tspan x="24.6434667" y="3.45">derekfletes,</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(66.938889 97.255556)">
+            <tspan x="40.5362667" y="3.45">Vapor Wave</tspan>
+          </text>
+        </g>
+        <g transform="translate(0 88.866667)">
+          <rect width="15.2888889" height="15.2888889" fill="#673AB7" rx="7.64444444"/>
+          <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+            <tspan x="4.53888889" y="8.49444444">Ask</tspan>
+          </text>
+        </g>
+        <g fill="#000">
+          <path d="M28.26123485 78.53591733c.08767222-.09961667.05183889-.18036111-.07859445-.18036111h-2.25463333c-.13115 0-.1677.07883333-.08074445.17725556l1.0535 1.19086111c.08671667.09794444.22622778.09842222.31581111-.00310556l1.04466112-1.18488889"/>
+          <text font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(25.8 72.233334)">
+            <tspan x="0" y="3.62777778">1</tspan>
+          </text>
+          <path d="M25.84825556 71.598584c-.08767223.09961667-.0518389.18036111.07859444.18036111h2.25463333c.13115 0 .1677-.07883333.08074445-.17725555l-1.0535-1.19086112c-.08671667-.09794444-.22622778-.09842222-.31581111.00310556l-1.04466111 1.18488889"/>
+        </g>
+        <text fill="#9B9B9B" font-family="LucidaGrande, Lucida Grande" font-size="2.86666667" transform="translate(57.938889 75.755556)">
+          <tspan x=".35" y="3.45">●</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="AvenirNext-Regular, Avenir Next" font-size="2.86666667" transform="translate(38.938889 75.755556)">
+          <tspan x="0" y="3.45">1 Comment</tspan>
+        </text>
+        <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(38.938889 69.755556)">
+          <tspan x="0" y="3">Bass &amp; FX Presets [Riddim]</tspan>
+        </text>
+        <g fill="#9B9B9B" font-size="2.86666667">
+          <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(63.938889 75.755556)">
+            <tspan x=".8" y="3.45">5 hours ago</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 75.755556)">
+            <tspan x="17.2346" y="3.45">from</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 75.755556)">
+            <tspan x="24.7768" y="3.45">derekfletes,</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 75.755556)">
+            <tspan x="40.7212" y="3.45">Dubstep</tspan>
+          </text>
+        </g>
+        <g transform="translate(0 67.366667)">
+          <rect width="15.2888889" height="15.2888889" fill="#2196F3" rx="7.64444444"/>
+          <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+            <tspan x="1.91111111" y="8.49444444">Presets</tspan>
+          </text>
+        </g>
+        <g>
+          <g fill="#000">
+            <path d="M28.26123441 57.03591733c.08767222-.09961667.05183888-.18036111-.07859445-.18036111h-2.25463333c-.13115 0-.1677.07883333-.08074444.17725556l1.0535 1.19086111c.08671666.09794444.22622777.09842222.31581111-.00310556l1.04466111-1.18488889"/>
+            <text font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(24.844444 50.733334)">
+              <tspan x="0" y="3.62777778">20</tspan>
+            </text>
+            <path d="M25.84825511 50.098584c-.08767222.09961667-.05183889.18036111.07859445.18036111h2.25463333c.13115 0 .1677-.07883333.08074444-.17725555l-1.0535-1.19086112c-.08671666-.09794444-.22622777-.09842222-.31581111.00310556l-1.04466111 1.18488889"/>
+          </g>
+          <text fill="#9B9B9B" font-family="LucidaGrande, Lucida Grande" font-size="2.86666667" transform="translate(57.938889 54.255556)">
+            <tspan x=".35" y="3.45">●</tspan>
+          </text>
+          <text fill="#9B9B9B" font-family="AvenirNext-Regular, Avenir Next" font-size="2.86666667" transform="translate(38.938889 54.255556)">
+            <tspan x="0" y="3.45">1 Comment</tspan>
+          </text>
+          <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(38.938889 48.255556)">
+            <tspan x="0" y="3">Blame by Ekali &amp; Zhu [Remake][Ableton]</tspan>
+          </text>
+          <g fill="#9B9B9B" font-size="2.86666667">
+            <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(63.938889 54.255556)">
+              <tspan x=".8" y="3.45">2 hours ago</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 54.255556)">
+              <tspan x="17.2346" y="3.45">from</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 54.255556)">
+              <tspan x="24.7768" y="3.45">derekfletes,</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 54.255556)">
+              <tspan x="40.7212" y="3.45">Future Bass</tspan>
+            </text>
+          </g>
+          <g transform="translate(0 45.866667)">
+            <rect width="15.2888889" height="15.2888889" fill="#E91E63" rx="7.64444444"/>
+            <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+              <tspan x="1.91111111" y="8.49444444">Project</tspan>
+            </text>
+          </g>
+        </g>
+        <g>
+          <g fill="#000">
+            <path d="M28.26123485 35.53591733c.08767222-.09961667.05183889-.18036111-.07859445-.18036111h-2.25463333c-.13115 0-.1677.07883333-.08074445.17725556l1.0535 1.19086111c.08671667.09794444.22622778.09842222.31581111-.00310556l1.04466112-1.18488889"/>
+            <text font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(25.8 29.233334)">
+              <tspan x="0" y="3.62777778">9</tspan>
+            </text>
+            <path d="M25.84825556 28.598584c-.08767223.09961667-.0518389.18036111.07859444.18036111h2.25463333c.13115 0 .1677-.07883333.08074445-.17725555l-1.0535-1.19086112c-.08671667-.09794444-.22622778-.09842222-.31581111.00310556l-1.04466111 1.18488889"/>
+          </g>
+          <text fill="#9B9B9B" font-family="LucidaGrande, Lucida Grande" font-size="2.86666667" transform="translate(57.938889 32.755556)">
+            <tspan x=".35" y="3.45">●</tspan>
+          </text>
+          <text fill="#9B9B9B" font-family="AvenirNext-Regular, Avenir Next" font-size="2.86666667" transform="translate(38.938889 32.755556)">
+            <tspan x="0" y="3.45">1 Comment</tspan>
+          </text>
+          <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(38.938889 26.755556)">
+            <tspan x="0" y="3">Porter Robinson Language [Melody]</tspan>
+          </text>
+          <g fill="#9B9B9B" font-size="2.86666667">
+            <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(63.938889 32.755556)">
+              <tspan x=".8" y="3.45">1 hour ago</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 32.755556)">
+              <tspan x="15.8815333" y="3.45">from</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 32.755556)">
+              <tspan x="23.4237333" y="3.45">derekfletes,</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 32.755556)">
+              <tspan x="39.3681333" y="3.45">Future Bass</tspan>
+            </text>
+          </g>
+          <g transform="translate(0 24.366667)">
+            <rect width="15.2888889" height="15.2888889" fill="#F44336" rx="7.64444444"/>
+            <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+              <tspan x="4.06111111" y="8.49444444">Midi</tspan>
+            </text>
+          </g>
+        </g>
+        <g>
+          <g fill="#000">
+            <path d="M28.26123441 14.03591733c.08767222-.09961667.05183888-.18036111-.07859445-.18036111h-2.25463333c-.13115 0-.1677.07883333-.08074444.17725556l1.0535 1.19086111c.08671666.09794444.22622777.09842222.31581111-.00310556l1.04466111-1.18488889"/>
+            <text font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(24.844444 7.733334)">
+              <tspan x="0" y="3.62777778">10</tspan>
+            </text>
+            <path d="M25.84825511 7.098584c-.08767222.09961667-.05183889.18036111.07859445.18036111h2.25463333c.13115 0 .1677-.07883333.08074444-.17725555l-1.0535-1.19086112c-.08671666-.09794444-.22622777-.09842222-.31581111.00310556l-1.04466111 1.18488889"/>
+          </g>
+          <text fill="#9B9B9B" font-family="LucidaGrande, Lucida Grande" font-size="2.86666667" transform="translate(57.938889 11.255556)">
+            <tspan x=".35" y="3.45">●</tspan>
+          </text>
+          <text fill="#9B9B9B" font-family="AvenirNext-Regular, Avenir Next" font-size="2.86666667" transform="translate(38.938889 11.255556)">
+            <tspan x="0" y="3.45">1 Comment</tspan>
+          </text>
+          <text fill="#000" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold" transform="translate(38.938889 5.255556)">
+            <tspan x="0" y="3">How To Use A Compressor…The Right Way [Mastering][Video]</tspan>
+          </text>
+          <g fill="#9B9B9B" font-size="2.86666667">
+            <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(63.938889 11.255556)">
+              <tspan x=".8" y="3.45">1 hour ago</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 11.255556)">
+              <tspan x="15.8815333" y="3.45">from</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 11.255556)">
+              <tspan x="23.4237333" y="3.45">derekfletes,</tspan>
+            </text>
+            <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(63.938889 11.255556)">
+              <tspan x="39.3681333" y="3.45">House</tspan>
+            </text>
+          </g>
+          <g transform="translate(0 2.866667)">
+            <rect width="15.2888889" height="15.2888889" fill="#000" rx="7.64444444"/>
+            <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.34444444" font-weight="bold">
+              <tspan x="1.43333333" y="8.49444444">Tutorial</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <path fill="#FFF" d="M0 17.2h344v15.2888889H0z"/>
+      <g fill="#000">
+        <path d="M66.00567883 24.54702811c.08767223-.09961666.05183889-.18036111-.07859444-.18036111H63.6724511c-.13115 0-.1677.07883334-.0807445.17725556l1.0535 1.19086111c.08671668.09794444.22622779.09842222.31581112-.00310556l1.04466111-1.18488889"/>
+        <text font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222" transform="translate(54.944444 22.216667)">
+          <tspan x="0" y="4">Top</tspan>
+        </text>
+        <text font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222" transform="translate(72.944444 22.216667)">
+          <tspan x=".8722222" y="4">Recent</tspan>
+        </text>
+        <text font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222" transform="translate(92.944444 22.216667)">
+          <tspan x=".7" y="4">Saved</tspan>
+        </text>
+        <path d="M135.5223451 24.30813922c.0876722-.09961666.0518389-.18036111-.0785944-.18036111h-2.2546334c-.13115 0-.1677.07883333-.0807444.17725556l1.0535 1.19086111c.0867167.09794444.2262278.09842222.3158111-.00310556l1.0446611-1.18488889"/>
+        <text font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222" transform="translate(112.038888 22.216667)">
+          <tspan x="0" y="4">Categories</tspan>
+        </text>
+      </g>
+      <g>
+        <path fill="#121212" d="M0 0h344v17.2H0z"/>
+        <g transform="translate(258 4.3)">
+          <rect width="31.0555556" height="8.6" fill="#2196F3" rx=".95555556"/>
+          <text fill="#FFF" font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222" transform="translate(5 1)">
+            <tspan x=".25555556" y="4.67222222">Post A Story</tspan>
+          </text>
+        </g>
+        <path fill="#FFF" d="M244.6225432 7.59071064c0-1.15778394.9331154-2.0962662 2.0842785-2.0962662 1.151163 0 2.0842784.93848226 2.0842784 2.0962662 0 .47246615-.1551985.90816702-.417497 1.25872723.013147.00935257.025332.01935015.0371964.03096024l1.847312 1.79440387c.12666.12319595.1308286.32572751.0067338.45505101-.1231327.12803349-.3277127.12996851-.4524487.00903007l-1.847312-1.79440386c-.0163536-.01580263-.0304626-.03289526-.0426476-.0509554-.3421423.24768192-.7622046.39345304-1.215936.39345304-1.151163 0-2.0842784-.93848225-2.0842784-2.0962662m3.5272404 0c0-.80141869-.644523-1.45126121-1.442962-1.45126121-.7968357 0-1.442962.64823001-1.442962 1.45126121 0 .8014187.644523 1.45126122 1.442962 1.45126122.7968357 0 1.442962-.64823001 1.442962-1.45126122"/>
+        <text fill="#FFF" font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222" transform="translate(211.416667 5.3)">
+          <tspan x="0" y="4.43333333">Login/Register</tspan>
+        </text>
+        <g fill="#FFF" font-family="AvenirNext-Regular, Avenir Next" font-size="3.82222222">
+          <text transform="translate(97.488889 5.972222)">
+            <tspan x=".4555556" y="4">Streams</tspan>
+          </text>
+          <text transform="translate(75.488889 5.972222)">
+            <tspan x="0" y="4">Tutorials</tspan>
+          </text>
+          <text transform="translate(119.488889 5.972222)">
+            <tspan x=".1944444" y="4">Resources</tspan>
+          </text>
+        </g>
+        <path fill="#FFF" d="M56.3602801 9.66444415V6.65869202c0-.41498039-.3168812-.75146994-.7079479-.75146994-.3910065.0000319-.7078878.33648955-.7078878.75146994v3.00575213c0 .41507615.3168813.75146995.7078878.75146995.3910667 0 .7079479-.3363938.7079479-.75146995zm2.2811121 3.13127365V4.02867485c0-.41498038-.3168211-.75146994-.7078878-.75146994-.3910667 0-.7079179.33645765-.7079179.75146994v8.76707485c0 .4150761.3168813.75147.707948.75147.3910666 0 .7078577-.3364258.7078577-.7515019zm2.2812022-1.2942053V6.65869202c0-.41498039-.3168812-.75146994-.7079479-.75146994s-.7078878.33645764-.7078878.75146994v4.84278858c0 .4150442.3168211.7514699.7078878.7514699.3910667 0 .7079479-.3364257.7079479-.751438zm6.2139021-4.0911591c-.3911268 0-.7079178.33645765-.7079178.75146994v4.17504216c0 .4150442.316791.75147.7079178.75147.3910367 0 .7079479-.3364258.7079479-.75147V8.16182334c0-.41501229-.3169112-.75146994-.7079479-.75146994zM64.8555047 2.15c-.3910065 0-.7077976.33645765-.7077976.75146994V14.2985301c0 .4151718.3167911.7514699.7077976.7514699.3911569 0 .7079479-.3362981.7079479-.7514699V2.90146994C65.5634226 2.48648955 65.2464211 2.15 64.8555047 2.15zm-2.2811421 10.9383035c.3911569 0 .707978-.3364257.707978-.7514699V5.09343807c0-.41498038-.3168211-.75146994-.707978-.75146994-.3910065 0-.7079178.33645765-.7079178.75146994v7.24339553c0 .4150442.3169113.7514699.7079178.7514699z"/>
+      </g>
+    </g>
+  </g>
+</svg>

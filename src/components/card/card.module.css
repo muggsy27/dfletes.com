@@ -1,0 +1,16 @@
+@import '../../styles/settings.module.css';
+
+.container {
+  background: #2D2E31;
+  border-radius: 20px;
+  flex-basis: 440px;
+  margin-bottom: var(--m-size);
+  overflow: hidden;
+  transition: 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 975px) {
+  .container {
+    flex-basis: 100%;
+  } 
+}

@@ -1,0 +1,39 @@
+@import '../../styles/settings.module.css';
+
+.container {
+  background: var(--black);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .50);
+  height: 72px;
+}
+
+.nav {
+  align-items: center;
+  composes: container from '../../styles/styles.module.css';
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.link {
+  color: white;
+  font-size: var(--s-size);
+  margin-right: var(--m-size);
+  text-decoration: none;
+}
+
+/* media queries */
+@media (max-width: 1000px) {
+  .container {
+    padding: 0 var(--s-size);  
+  }
+}
+
+@media (max-width: 980px) {  
+  .nav button {
+    display: none;
+  }
+
+  .link {
+    display: none;
+  }
+} 

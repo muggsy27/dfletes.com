@@ -1,0 +1,16 @@
+:root {
+  /* color variables */
+  --black: #202124;
+  --light-black: #212121;
+  --blue: #2196F3;
+  --gray: #F5F5F5;
+
+  /* spacing variables */
+  --xs-size: 8px;
+  --s-size: 16px;
+  --m-size: 32px;
+  --l-size: 48px;
+
+  /* breakpoint variables */
+  --desktop-breakpoint: 980px;
+}

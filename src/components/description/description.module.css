@@ -1,0 +1,48 @@
+@import '../../styles/settings.module.css';
+
+.container {
+  border-radius: 0 0 4px 4px;
+  padding: 16px;
+}
+
+.container h2 {
+  font-size: 24px;
+  margin-bottom: var(--s-size);
+}
+
+.container p {
+  margin-bottom: var(--s-size);
+}
+
+.container .tagsContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container .tagsContainer > span {
+  background: var(--black);
+  border-radius: 100px;
+  margin-right: var(--s-size);
+  margin-bottom: var(--s-size);
+  padding: 4px 16px;
+}
+
+.container div:last-of-type {
+  align-items: center;
+  display: flex;
+}
+
+.container a {
+  color: white;
+  text-decoration: none;
+}
+
+.container img {
+  margin-right: var(--s-size);
+}
+
+@media screen and (max-width: 450px) {
+  .container h2 {
+    font-size: 20px;
+  }
+}

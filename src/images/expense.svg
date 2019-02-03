@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 344 100" width="344" height="160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <path id="a" d="M0 0h344v160H0z"/>
+    <path id="c" d="M0 0h236.738889v21.5244755H0z"/>
+    <path id="e" d="M0 0h236.738889v19.8503497H0z"/>
+    <path id="g" d="M0 0h80.2666667v11.958042H0z"/>
+    <rect id="i" width="21.5" height="11.958042" rx=".95555556"/>
+    <path id="k" d="M0 0h51.6v12.4363636H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#FFF" xlink:href="#a"/>
+    <g mask="url(#b)">
+      <g transform="translate(52.316667 120.058742)">
+        <mask id="d" fill="#fff">
+          <use xlink:href="#c"/>
+        </mask>
+        <g fill="#FFF" stroke="#CACCCD" stroke-width=".5" mask="url(#d)">
+          <path d="M0 0h236.738889v21.5244755H0z"/>
+        </g>
+      </g>
+      <text fill="#666" font-family="AvenirNext-Bold, Avenir Next" font-size="4.3" font-weight="bold" transform="translate(157.188889 127.95105)">
+        <tspan x="0" y="4">No Expenses</tspan>
+      </text>
+      <g transform="translate(52.316667 100.208392)">
+        <mask id="f" fill="#fff">
+          <use xlink:href="#e"/>
+        </mask>
+        <g fill="#F7F7F7" stroke="#CACCCD" stroke-width=".5" mask="url(#f)">
+          <path d="M0 0h236.738889v19.8503497H0z"/>
+        </g>
+      </g>
+      <text fill="#666" font-family="AvenirNext-Bold, Avenir Next" font-size="4.3" font-weight="bold" transform="translate(52.316667 100.208392)">
+        <tspan x="3.82222222" y="10.9356643">Expense</tspan>
+      </text>
+      <text fill="#666" font-family="AvenirNext-Bold, Avenir Next" font-size="4.3" font-weight="bold" transform="translate(52.316667 100.208392)">
+        <tspan x="216.194444" y="10.9356643">Amount</tspan>
+      </text>
+      <g transform="translate(132.583334 80.597203)">
+        <mask id="h" fill="#fff">
+          <use xlink:href="#g"/>
+        </mask>
+        <g fill="#FFF" stroke="#CACCCD" stroke-width=".5" mask="url(#h)">
+          <path d="M0 0h80.2666667v11.958042H0z"/>
+        </g>
+      </g>
+      <g fill="#333" font-size="4.3">
+        <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(136.405556 83.706294)">
+          <tspan x="0" y="4">01/01/2019</tspan>
+        </text>
+        <text font-family="LucidaGrande, Lucida Grande" transform="translate(163.4 84.184616)">
+          <tspan x="0" y="4">→</tspan>
+        </text>
+        <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(171.522223 83.706294)">
+          <tspan x="0" y="4">01/31/2019</tspan>
+        </text>
+        <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(206.161112 83.706294)">
+          <tspan x="0" y="4">X</tspan>
+        </text>
+      </g>
+      <g transform="translate(107.261111 80.597203)">
+        <mask id="j" fill="#fff">
+          <use xlink:href="#i"/>
+        </mask>
+        <g fill="#F8F8F8" stroke="#CACCCD" stroke-width=".5" mask="url(#j)">
+          <rect width="21.5" height="11.958042" rx=".95555556"/>
+        </g>
+      </g>
+      <g fill="#666" font-family="STHeitiSC-Medium, Heiti SC" font-size="2.86666667" font-weight="bold">
+        <text transform="translate(123.983333 87.054545)">
+          <tspan x="0" y="2">▼</tspan>
+        </text>
+        <text transform="translate(123.983333 83.227972)">
+          <tspan x="0" y="2">▲</tspan>
+        </text>
+      </g>
+      <text fill="#333" font-family="AvenirNext-Regular, Avenir Next" font-size="4.3" transform="translate(109.172222 83.706294)">
+        <tspan x="0" y="4">Date</tspan>
+      </text>
+      <path fill="#FFF" d="M52.316667 80.597203h51.1222222v11.958042H52.316667z"/>
+      <g transform="translate(52.077778 80.358042)">
+        <mask id="l" fill="#fff">
+          <use xlink:href="#k"/>
+        </mask>
+        <g stroke="#CACCCD" stroke-width=".5" mask="url(#l)">
+          <path d="M.238889.239161h51.1222222v11.958042H.238889z"/>
+        </g>
+      </g>
+      <text fill="#333" font-family="AvenirNext-Regular, Avenir Next" font-size="4.3" transform="translate(52.077778 80.358042)">
+        <tspan x="9.31666667" y="7.34825175">Search Expenses</tspan>
+      </text>
+      <g>
+        <path fill="#F7F7F7" d="M0 17.937063h344v51.1804196H0z"/>
+        <path fill="#1C88BF" d="M54.944444 47.593007h31.7722222v10.0447552H54.944444z"/>
+        <text fill="#FFF" font-family="AvenirNext-Regular, Avenir Next" font-size="4.3" transform="translate(57.811111 49.745455)">
+          <tspan x="0" y="4">Add Expense</tspan>
+        </text>
+        <g fill="#333" font-size="7.64444444">
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(54.944444 29.416783)">
+            <tspan x="0" y="8">Viewing</tspan>
+          </text>
+          <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(54.944444 29.416783)">
+            <tspan x="29.7063111" y="8">0</tspan>
+          </text>
+          <text font-family="AvenirNext-Regular, Avenir Next" transform="translate(54.944444 29.416783)">
+            <tspan x="34.6446222" y="8">expenses totalling</tspan>
+          </text>
+          <text font-family="AvenirNext-Bold, Avenir Next" font-weight="bold" transform="translate(54.944444 29.416783)">
+            <tspan x="101.869867" y="8">$0.00</tspan>
+          </text>
+        </g>
+      </g>
+      <g>
+        <path fill="#364051" d="M0 0h344v17.9370629H0z"/>
+        <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="7.64444444" font-weight="bold">
+          <tspan x="54.9444444" y="11.8265734">Budget App</tspan>
+        </text>
+        <text fill="#FFF" font-family="AvenirNext-Bold, Avenir Next" font-size="3.82222222" font-weight="bold">
+          <tspan x="275.916667" y="10.4573427">Logout</tspan>
+        </text>
+      </g>
+      <path fill="#364051" d="M0 153.062937h344v17.9370629H0z"/>
+    </g>
+  </g>
+</svg>

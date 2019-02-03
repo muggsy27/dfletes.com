@@ -1,0 +1,55 @@
+@import '../../styles/settings.module.css';
+
+.openDropdown {
+  height: 100vh;
+  left: 0;
+  margin: 0 auto;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  transition: all .2s ease-in-out;
+  top: 74px;
+  width: 100%;
+  z-index: 999;
+}
+
+.openDropdown ul {
+  background: var(--black);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.openDropdown li {
+  border-bottom: 1px solid white;
+  list-style-type: none;
+  padding: var(--s-size);
+}
+
+.openDropdown li:last-of-type {
+  border: none;
+}
+
+.openDropdown .link {
+  color: white;
+  text-decoration: none;
+}
+
+.openDropdown .buttonLink {
+  background: var(--blue);
+  border-radius: 100px;
+  color: white;
+  display: inline-block;
+  letter-spacing: 2px;
+  padding: 8px var(--l-size);
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.closedDropdown {
+  composes: openDropdown;
+  opacity: 0;
+  width: 0;
+  z-index: -1;
+}

@@ -1,0 +1,27 @@
+@import '../../styles/settings.module.css';
+
+.container {
+  margin-bottom: 32px;
+}
+
+.container a {
+  background: #2D2E31;
+  border-radius: 100px;
+  color: white;
+  display: block;
+  padding: 8px var(--l-size);
+  text-align: center;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+  width: 100%;
+}
+
+.container a:hover {
+  background: #47484B;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    padding: 0 var(--s-size);
+  }
+}

@@ -1,0 +1,16 @@
+@import '../../styles/settings.module.css';
+
+.container h3 {
+  margin: var(--s-size) 0;
+  padding: 0;
+}
+
+.container p {
+  margin-bottom: var(--s-size);
+}
+
+@media (max-width: 1000px) {
+  .container {
+    padding: 0 var(--s-size);
+  }
+}

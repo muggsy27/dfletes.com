@@ -1,0 +1,66 @@
+@import '../../styles/settings.module.css';
+
+footer {
+  background: var(--black);
+  height: 72px;
+}
+
+.container {
+  align-items: center;
+  composes: container from '../../styles/styles.module.css';
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+.container div {
+  align-items: center;
+  display: flex;
+  padding: 0;
+}
+
+.container div:first-of-type {
+  flex: 1;
+  margin-right: auto;
+  visibility: hidden;
+}
+
+.container div:last-of-type {
+  flex: 1;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.container div img:first-of-type {
+  margin-left: 8px;
+}
+
+.container div a {
+  align-items: center;
+  display: flex;
+  margin-right: var(--m-size);
+}
+
+.container div a:last-of-type {
+  margin: 0;
+}
+
+/* media queries */
+@media (max-width: 980px) {
+  .container {
+    justify-content: center;
+    padding: 0 var(--s-size);
+  }
+
+  .container div:first-of-type {
+    display: none;
+  }
+
+  .container div:nth-of-type(2) {
+    display: none;
+  }
+
+  .container div:last-of-type {
+    justify-content: center;
+  }
+}
