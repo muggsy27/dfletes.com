@@ -1,0 +1,27 @@
+@import '../../styles/settings.module.css';
+
+.input {
+  background: url(../../images/search.svg);
+  background-position: var(--s-size);
+  background-repeat: no-repeat;
+  background-size: var(--s-size);
+  border: 1px solid white;
+  border-radius: 4px;
+  color: white;
+  font-size: var(--size);
+  height: var(--m-size);
+  outline: none;
+  padding-left: 40px;
+  width: 100%;
+}
+
+.input::placeholder {
+  color: white;
+} 
+
+/* media queries */
+@media (max-width: 980px) {
+  .input {
+    display: none;
+  }
+}

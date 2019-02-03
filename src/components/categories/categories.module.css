@@ -1,0 +1,29 @@
+@import '../../styles/settings.module.css';
+
+.list {
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: var(--l-size);
+  margin-top: var(--m-size);
+  padding-left: 0;
+}
+
+.list li {
+  list-style-type: none;
+  margin-right: var(--m-size);
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+/* media queries */
+@media (max-width: 980px) {
+  .list {
+    display: none;
+  }
+}

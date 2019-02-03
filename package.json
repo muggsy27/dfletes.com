@@ -7,14 +7,15 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "start": "npm run develop",
+    "start": "gatsby serve --port ${PORT}",
     "serve": "gatsby serve",
     "heroku-postbuild": "gatsby build",
-    "start": "gatsby serve --port ${PORT}",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
     "gatsby": "^2.0.111",
+    "gatsby-source-filesystem": "^2.0.20",
+    "gatsby-transformer-remark": "^2.2.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
