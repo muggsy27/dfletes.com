@@ -9,6 +9,8 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
+    "heroku-postbuild": "gatsby build",
+    "start": "gatsby serve --port ${PORT}",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
