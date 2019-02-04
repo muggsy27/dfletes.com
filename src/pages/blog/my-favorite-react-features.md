@@ -3,6 +3,7 @@ title: "My Favorite React Features"
 date: "2019-02-03"
 author: "Derek Fletes"
 timeToRead: 5
+tags: ["reactjs"]
 ---
 
 ReactJS has been my go-to Framework of choice for my last few projects. Here are my favorite features.
