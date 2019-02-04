@@ -6,6 +6,7 @@ import BlogPost from '../components/blog-post/blog-post';
 import BlogLinks from '../components/blog-links/blog-links';
 import Footer from '../components/footer/footer';
 import { container } from '../styles/styles.module.css';
+import 'prismjs/themes/prism-tomorrow.css';
 
 export default function Template({ data, pageContext }) {
   const { html, frontmatter: { author, date, title, tags } } = data.markdownRemark;
