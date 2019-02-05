@@ -1,13 +1,14 @@
 @import '../../styles/settings.module.css';
 
 .openDropdown {
-  height: 100vh;
-  left: 0;
+  display: block;
+  height: calc(100vh - 74px);
   margin: 0 auto;
+  overflow: hidden;
   padding: 0;
   position: absolute;
   right: 0;
-  transition: all .2s ease-in-out;
+  transition: .3s ease-in-out;
   top: 74px;
   width: 100%;
   z-index: 999;
@@ -49,7 +50,6 @@
 
 .closedDropdown {
   composes: openDropdown;
-  opacity: 0;
-  width: 0;
+  height: 0;
   z-index: -1;
 }

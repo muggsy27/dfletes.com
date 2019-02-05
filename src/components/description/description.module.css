@@ -33,7 +33,10 @@
 }
 
 .container a {
+  align-items: center;
   color: white;
+  display: flex;
+  height: 100%;
   text-decoration: none;
 }
 

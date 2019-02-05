@@ -36,7 +36,8 @@ export default () => (
             description="A Reddit-inspired forum built with ReactJS. Key features include authentication and data storage."
             tags={['react', 'redux', 'mongodb', 'css', 'nextjs']}
             github={true}
-            link="example.com"
+            githubLink={'https://github.com/muggsy27/producer-forum'}
+            link="https://producer-forum.herokuapp.com"
           />
         </Card>
         <Card>
@@ -47,9 +48,10 @@ export default () => (
             img={portfolio}
             title="Personal Blog & Portfolio Site"
             description="My personal blog and portfolio website. Designed with Sketch. Built with GatsbyJS & ReactJS."
-            tags={['react', 'gatsby', 'css']}
+            tags={['react', 'gatsby', 'graphql', 'prismjs', 'css']}
             github={true}
-            link="example.com"
+            githubLink={'https://github.com/muggsy27/dfletes.com'}
+            link="https://dfletes.herokuapp.com/"
           />
         </Card>
         <Card>
@@ -61,13 +63,14 @@ export default () => (
             description="An expense tracking application. Key features include authentication, data storage, and date filters."
             tags={['react', 'redux', 'firebase', 'sass']}
             github={true}
-            link="example.com"
+            githubLink={'https://github.com/muggsy27/expensify-app'}
+            link="https://derek-react-course-expensify.herokuapp.com"
           />
         </Card>
       </div>
       <BigButton
-        url="#"
-        title="View all Repositories"
+        url="https://github.com/muggsy27?tab=repositories"
+        title="View all Github Repositories"
       />
       <SubHeader
         title="Design Projects"
@@ -105,13 +108,13 @@ export default () => (
         <Card>
           <Description
             word={true}
-            link="derekfletes_resume.docx"
+            link={withPrefix('/derek-fletes-resume.docx')}
           />
         </Card>
         <Card>
           <Description
             pdf={true}
-            link="derekfletes_resume.pdf"
+            link={withPrefix('/derek-fletes-resume.pdf')}
           />
         </Card>
       </div>

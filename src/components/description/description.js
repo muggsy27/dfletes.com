@@ -5,7 +5,7 @@ import wordLogo from '../../images/word.svg';
 import pdfLogo from '../../images/pdf.svg';
 import { container, tagsContainer } from './description.module.css';
 
-const Description = ({ title, date, description, tags, github, sketch, word, pdf, link, children }) => (
+const Description = ({ title, date, description, tags, github, githubLink, sketch, word, pdf, link, children }) => (
   <div className={container}>
     {title && <h2>{title}</h2>}
     {date && <p>{date}</p>}
@@ -13,11 +13,11 @@ const Description = ({ title, date, description, tags, github, sketch, word, pdf
     {tags && <div className={tagsContainer}>{tags.map(tag => <span>{tag}</span>)}</div>}
     {link &&
       <div>
-        {github && <img src={githubLogo} alt="github profile icon" />}
+        {github && <a href={githubLink} target="_blank" rel="noopener noreferrer"><img src={githubLogo} alt="github profile icon" /></a>}
         {sketch && <img src={sketchLogo} alt="sketch logo" />}
         {word && <img src={wordLogo} alt="microsoft word logo" />}
         {pdf && <img src={pdfLogo} alt="pdf logo" />}
-        <a href={link}>{sketch ? link.substr(1) : link}</a>
+        <a href={link} target="_blank" rel="noopener noreferrer">{sketch ? link.substr(1) : githubLink ? 'Project URL' : link}</a>
       </div>}
     {children}
   </div>

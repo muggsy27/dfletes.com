@@ -37,13 +37,13 @@ class Nav extends Component {
             />
           </Link>
           <div>
-            <Link
+            {/*<Link
               to="/about-me"
               activeStyle={{ color: '#2196F3' }}
               className={link}
             >
               About Me
-            </Link>
+            </Link>*/}
             <Link
               to="/blog"
               activeStyle={{ color: '#2196F3' }}

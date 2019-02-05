@@ -19,7 +19,7 @@ export default () => (
         title="Let's Talk"
         subtitle="Looking to hire? Just want to talk ReactJS or music? Hit me up!"
       />
-      <button>Email Me</button>
+      <a href="mailto:derekfletes@gmail.com"><button>Email Me</button></a>
       <Header subtitle="Or...check me out on my professional profiles!" />
       <div className={grid}>
         <Card>
@@ -38,7 +38,7 @@ export default () => (
           </FeaturedImage>
           <Description
             title="AngelList"
-            description="I have worked with a few start ups in the past and would be interested in working with others. My AngelList profile contains my professional skills & interests."
+            description="I have worked with a few start ups in the past and would be interested in working with others. My AngelList profile list skills & interests."
             link="https://angel.co/derek-fletes"
           />
         </Card>
