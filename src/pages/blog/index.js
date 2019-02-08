@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import Nav from '../../components/nav/nav';
 import Header from '../../components/header/header';
 import Search from '../../components/search/search';
-import Categories from '../../components/categories/categories';
+// import Categories from '../../components/categories/categories';
 import CardContainer from '../../components/card-container/card-container';
 import Footer from '../../components/footer/footer';
 import { container } from '../../styles/styles.module.css';
@@ -32,7 +32,7 @@ export default class extends Component {
             subtitle="Writing about web & software technologies I have worked with recently."
           />
           <Search setSearchState={this.setSearchState} />
-          <Categories />
+          {/*<Categories />*/}
           <CardContainer
             {...data}
             search={search}

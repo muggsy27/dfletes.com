@@ -13,6 +13,14 @@
   padding-top: var(--s-size);
 }
 
+.container > h2 {
+  line-height: 36px;
+}
+
+.container a {
+  color: var(--blue);
+}
+
 .container pre {
   margin: 0;
   border-radius: 4px;
