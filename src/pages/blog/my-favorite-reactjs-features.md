@@ -10,7 +10,7 @@ Hi! As the title says, I am going to talk about my favorite ReactJS features. Be
 
 Eight months ago I chose ReactJS as my JavaScript framework of choice. I wanted to build web applications and React seemed like a solid choice given its popularity among developers, large support community, and widespread use on real world software teams.
 
-I've now used React in 4-5 personal projects so I think I am starting to gain a pretty good understanding of its main features. I just recently used React to build my [first big project](http://producer-forum.herokuapp.com/) and I am extremely pleased with the results.
+I've now used React in 4-5 personal projects so I think I am starting to gain a pretty good understanding of its main features. I just recently used React to build my [first big project](https://producer-forum.herokuapp.com/) and I am extremely pleased with the results.
 
 Ok, enough back story. Here are my 5 favorite ReactJS features:
 
