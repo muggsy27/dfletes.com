@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 40px;
+  height: 32px;
   width: 40px;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .hamburger .openBar1 {
-  transform: rotate(-45deg) translate(-11px, 12px);
+  transform: rotate(-45deg) translate(-10px, 8px);
 }
 
 .hamburger .openBar2 {
@@ -28,7 +28,7 @@
 }
 
 .hamburger .openBar3 {
-  transform: rotate(45deg) translate(-12px, -14px);
+  transform: rotate(45deg) translate(-10px, -10px);
 }
 
 /* media queries */
