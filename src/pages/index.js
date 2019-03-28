@@ -61,7 +61,7 @@ export default () => (
           <Description
             title="Expensify App"
             description="An expense tracking application. Key features include authentication, data storage, and date filters."
-            tags={['react', 'redux', 'firebase', 'sass']}
+            tags={['react', 'redux', 'firebase', 'sass', 'jest', 'enzyme']}
             github={true}
             githubLink={'https://github.com/muggsy27/expensify-app'}
             link="https://derek-react-course-expensify.herokuapp.com"
