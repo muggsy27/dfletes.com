@@ -18,7 +18,7 @@ import { container, grid, svg } from '../styles/styles.module.css';
 export default () => (
   <Fragment>
     <Helmet
-      meta={[{ charset: 'utf-8' },]}
+      meta={[{ charset: 'utf-8' }, { name: 'description', content: 'A front-end web developer that specializes in JavaScript & ReactJS' }]}
       title="Derek Fletes, front-end web developer"
       link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
     />

@@ -18,7 +18,7 @@ export default function Template({ data, pageContext }) {
   return (
     <Fragment>
       <Helmet
-        meta={[{ charset: 'utf-8' },]}
+        meta={[{ charset: 'utf-8' }]}
         title={`${title}`}
         link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
       />
