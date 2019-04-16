@@ -18,7 +18,7 @@ export default () => (
     <Nav />
     <div className={container}>
       <Header
-        title="Hi. I'm Derek Fletes, an aspiring web & software developer from San Diego ☀️."
+        title="Hi. I'm Derek Fletes, a front-end web developer."
         subtitle="I'm a former marketing associate that fell in love with coding after working on a few software teams. Now I build & design my own websites & web applications."
       />
       <SubHeader
