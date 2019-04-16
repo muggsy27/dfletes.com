@@ -1,5 +1,7 @@
 import React from 'react';
 import { Fragment } from 'react';
+import { Helmet } from 'react-helmet';
+import favicon from '../images/favicon.png';
 import Nav from '../components/nav/nav';
 import Header from '../components/header/header';
 import Card from '../components/card/card';
@@ -13,6 +15,11 @@ import { container, grid, picture } from '../styles/styles.module.css';
 
 export default () => (
   <Fragment>
+    <Helmet
+      meta={[{ charset: 'utf-8' },]}
+      title="Contact Me"
+      link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
+    />
     <Nav />
     <div className={container}>
       <Header

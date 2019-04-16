@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react';
 import { withPrefix } from 'gatsby';
+import { Helmet } from 'react-helmet';
+import favicon from '../images/favicon.png';
 import Nav from '../components/nav/nav';
 import Header from '../components/header/header';
 import SubHeader from '../components/sub-header/sub-header';
@@ -15,6 +17,11 @@ import { container, grid, svg } from '../styles/styles.module.css';
 
 export default () => (
   <Fragment>
+    <Helmet
+      meta={[{ charset: 'utf-8' },]}
+      title="Derek Fletes, front-end web developer"
+      link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
+    />
     <Nav />
     <div className={container}>
       <Header

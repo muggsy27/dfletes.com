@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react';
 import { graphql } from 'gatsby';
+import { Helmet } from 'react-helmet';
+import favicon from '../images/favicon.png';
 import Nav from '../components/nav/nav';
 import BlogHeader from '../components/blog-header/blog-header';
 import BlogPost from '../components/blog-post/blog-post';
@@ -15,6 +17,11 @@ export default function Template({ data, pageContext }) {
 
   return (
     <Fragment>
+      <Helmet
+        meta={[{ charset: 'utf-8' },]}
+        title={`${title}`}
+        link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
+      />
       <Nav />
       <div className={container}>
         <BlogHeader

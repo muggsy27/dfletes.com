@@ -1,5 +1,7 @@
 import React, { Component, Fragment } from "react";
 import { graphql } from "gatsby";
+import { Helmet } from 'react-helmet';
+import favicon from '../../images/favicon.png';
 import Nav from '../../components/nav/nav';
 import Header from '../../components/header/header';
 import Search from '../../components/search/search';
@@ -25,6 +27,11 @@ export default class extends Component {
 
     return (
       <Fragment>
+        <Helmet
+          meta={[{ charset: 'utf-8' },]}
+          title="Derek Fletes Blog"
+          link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
+        />
         <Nav />
         <div className={container}>
           <Header
